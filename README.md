@@ -12,10 +12,6 @@ LSH-Based Shingles-Similarity Product Duplication Detection Method
 │   └── implementation.py   # Implementation of the solution
 ├── data
 │   └── data.json           # The television data for the project
-├── report                      
-│   ├── report.pdf          # The actual report itself
-│   ├── report.tex          # The Latex Code for the report
-│   └── ...
 └── requirements.txt        # The requirements for the code
 
 ```
