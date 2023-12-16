@@ -30,7 +30,7 @@ LSH-Based Shingles-Similarity Product Duplication Detection Method
 
 ## Usage
 To run the code:
-- Make sure you are in the root of the `cs_for_ba_project` directory
+- Make sure you are in the root of the `csba_paper` directory
 - `make run`
 - Or `python3 code/implementation.py`
 
