@@ -22,9 +22,9 @@ LSH-Based Shingles-Similarity Product Duplication Detection Method
 - pip (pip3)
 
 #### Installation Steps
-1. Clone the repository: `git clone https://github.com/Hashiraee/cs_for_ba_project.git`
+1. Clone the repository: `git clone https://github.com/Hashiraee/csba_paper.git`
 2. Setup virtual environment & Install dependencies:
-    - `cd cs_for_ba_project`
+    - `cd csba_paper`
     - `make install`
     - (Or `pip3 install -r requirements.txt`)
 
